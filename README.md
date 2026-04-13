@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**PrathameshMarturkar/PrathameshMarturkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you starte# 💫 About Me:
+# 💫 About Me:
 - Improving my programming skills by building Python projects and completing hands-on assignments.<br>- Beginner-friendly Python and web development projects where I can learn and contribute.<br>- Understanding real-world project development, writing clean code, and improving problem-solving skills.<br>- Python programming, basic data structures, and starting with web development & Cyber security<br>- My journey as a beginner in programming, Python basics, and how I'm improving step by step.<br>- I started learning coding from scratch and I'm documenting my journey to become a developer.
 
 
@@ -20,14 +15,4 @@ Here are some ideas to get you starte# 💫 About Me:
 ---
 [![](https://komarev.com/ghpvc/?username=PrathameshMarturkar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->d:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
