@@ -1,5 +1,5 @@
 # ➖About Me:
-- Improving my programming skills by building Python projects and completing hands-on assignments.<br>- Beginner-friendly Python and web development projects where I can learn and contribute.<br>- Understanding real-world project development, writing clean code, and improving problem-solving skills.<br>- Python programming, basic data structures, and starting with web development & Cyber security<br>- My journey as a beginner in programming, Python basics, and how I'm improving step by step.<br>- I started learning coding from scratch and I'm documenting my journey to become a developer.
+- Improving my programming skills by building Python projects and completing hands-on assignments.<br>- Beginner-friendly Python and web development projects where I can learn and contribute.<br>- Understanding real-world project development, writing clean code, and improving problem-solving skills.<br>- Python programming, basic data structures, and starting with web development & software development <br>- My journey as a beginner in programming, Python basics, and how I'm improving step by step.<br>- I started learning coding from scratch and I'm documenting my journey to become a developer.
 
 
 ## 🌐 Socials:
